@@ -1,7 +1,9 @@
 @extends('layouts.app')
 
 @section('content')
+
 <div class="container">
+    <b-alert show>Default Alert</b-alert>
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
